@@ -24,7 +24,8 @@ Overview :
 This Student Management System lets you store and manage student details, course details, enrollments, and grades.
 It has a user-friendly command-line interface and stores data in JSON for persistence.
 
-Features
+Features :
+
 Add New Students with personal details.
 
 Create Courses with instructor information.
@@ -36,7 +37,9 @@ Assign Grades to students for their enrolled courses.
 View Details of any student or course.
 
 Save & Load Data using JSON file storage (data.json).
-Menu Options
+
+Menu Options :
+
 Add New Student – Enter name, age, address, and student ID.
 
 Add New Course – Provide course name, code, and instructor.
