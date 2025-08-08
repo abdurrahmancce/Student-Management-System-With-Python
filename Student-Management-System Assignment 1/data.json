@@ -1,0 +1,20 @@
+{
+    "students": {
+        "18": {
+            "name": "Akash",
+            "age": 22,
+            "address": "Feni",
+            "student_id": "18",
+            "grades": {},
+            "courses": []
+        }
+    },
+    "courses": {
+        "PHY101": {
+            "course_name": "PHY",
+            "course_code": "PHY101",
+            "instructor": "Sky",
+            "students": []
+        }
+    }
+}
