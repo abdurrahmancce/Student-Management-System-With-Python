@@ -13,20 +13,14 @@ View student & course details
 
 Save & load data from data.json
 
-▶ Quick Run
-bash
-Copy
-Edit
-python Project.py
-Follow the menu options to manage records.
-
 📂 Files
 Project.py – Main program
 
 data.json – Data storage file
 
 📖 Full Documentation
-Overview
+
+Overview :
 This Student Management System lets you store and manage student details, course details, enrollments, and grades.
 It has a user-friendly command-line interface and stores data in JSON for persistence.
 
@@ -69,4 +63,6 @@ You can load existing data anytime using Option 8.
 If data.json is missing, the program starts with empty data.
 
 Author
-Developed by Abdur Rahman.
+
+Developed by
+Abdur Rahman.
